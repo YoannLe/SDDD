@@ -16529,11 +16529,11 @@ general purpose rectifier, 1 A</description>
 <part name="R3" library="resistor" deviceset="R-EU_" device="0207/10" value="22.6k"/>
 <part name="R4" library="resistor" deviceset="R-EU_" device="0207/10" value="10k"/>
 <part name="R5" library="resistor" deviceset="R-EU_" device="0207/10" value="100"/>
-<part name="C6" library="rcl" deviceset="C-EU" device="050-025X075" value="0.1µf"/>
-<part name="C7" library="rcl" deviceset="C-EU" device="050-025X075" value="0.1µf"/>
-<part name="C8" library="rcl" deviceset="C-EU" device="050-025X075" value="0.1µf"/>
+<part name="C6" library="rcl" deviceset="C-EU" device="050-025X075" value="0.01µf"/>
+<part name="C7" library="rcl" deviceset="C-EU" device="050-025X075" value="0.01µf"/>
+<part name="C8" library="rcl" deviceset="C-EU" device="050-025X075" value="0.01µf"/>
 <part name="R6" library="resistor" deviceset="R-EU_" device="0207/10" value="3k"/>
-<part name="C9" library="rcl" deviceset="C-EU" device="050-025X075" value="0.1µf"/>
+<part name="C9" library="rcl" deviceset="C-EU" device="050-025X075" value="0.01µf"/>
 <part name="IC1" library="st-microelectronics" deviceset="NE555" device=""/>
 <part name="IC2" library="st-microelectronics" deviceset="NE555" device=""/>
 <part name="IC3" library="ir" deviceset="IR4426" device=""/>
