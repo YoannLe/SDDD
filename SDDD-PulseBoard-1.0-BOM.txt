@@ -1,0 +1,42 @@
+Partlist exported from D:/ylefebvre/Bureau/SDDD/SDDD-Eagle/SDDD-PulseBoard-1.0.sch at 29/09/2016 17:54
+
+Part         Value                Device                Package       Description                          MF                          MPN       OC_FARNELL OC_NEWARK
+BAT-         WIREPADM5-SOLDER-NUT WIREPADM5-SOLDER-NUT  M5-SOLDER-NUT Wire PAD connect wire on PCB                                                                   
+C1           470uF 25V            CPOL-EUE5-8.5         E5-8,5        POLARIZED CAPACITOR, European symbol                                                           
+C2           0.1 µf Cer 25V       C-EU050-025X075       C050-025X075  CAPACITOR, European symbol                                                                     
+C3           0.1 µf Cer 25V       C-EU050-025X075       C050-025X075  CAPACITOR, European symbol                                                                     
+C4           0.1 µf Cer 25V       C-EU050-025X075       C050-025X075  CAPACITOR, European symbol                                                                     
+C5           0.1 µf Cer 25V       C-EU050-025X075       C050-025X075  CAPACITOR, European symbol                                                                     
+C6           0.1µf                C-EU050-025X075       C050-025X075  CAPACITOR, European symbol                                                                     
+C7           0.1µf                C-EU050-025X075       C050-025X075  CAPACITOR, European symbol                                                                     
+C8           0.1µf                C-EU050-025X075       C050-025X075  CAPACITOR, European symbol                                                                     
+C9           0.1µf                C-EU050-025X075       C050-025X075  CAPACITOR, European symbol                                                                     
+C10          0.1 µf Cer 25v       C-EU050-025X075       C050-025X075  CAPACITOR, European symbol                                                                     
+CAP-/RECTIF- WIREPADM5-SOLDER-NUT WIREPADM5-SOLDER-NUT  M5-SOLDER-NUT Wire PAD connect wire on PCB                                                                   
+D1           1N4004               1N4004                DO41-10       DIODE                                                                                          
+IC1          NE555                NE555                 DIL-08        General purpose bipolar Timer        Arrow Electronics           NE555N    1467742    89K1486  
+IC2          NE555                NE555                 DIL-08        General purpose bipolar Timer        Arrow Electronics           NE555N    1467742    89K1486  
+IC3          IR4426               IR4426                DIL08         DUAL LOW SIDE DRIVER                 INTERNATIONAL RECTIFIER(IR) IR4426PBF 1023265    19K8460  
+IC4          7812TV               7812TV                TO220V        Positive VOLTAGE REGULATOR                                                                     
+IC5          IR4426               IR4426                DIL08         DUAL LOW SIDE DRIVER                 INTERNATIONAL RECTIFIER(IR) IR4426PBF 1023265    19K8460  
+JP1                               JP1E                  JP1           JUMPER                                                                                         
+JP2                               JP1E                  JP1           JUMPER                                                                                         
+JP3                               JP1E                  JP1           JUMPER                                                                                         
+PAD1                              2,15/1,0              2,15/1,0      THROUGH-HOLE PAD                                                                               
+PAD2                              2,15/1,0              2,15/1,0      THROUGH-HOLE PAD                                                                               
+Q1           IRFB3307             IRF540                TO220BV       HEXFET Power MOSFET                                                                            
+Q2           IRFB3307             IRF540                TO220BV       HEXFET Power MOSFET                                                                            
+Q3           IRFB3307             IRF540                TO220BV       HEXFET Power MOSFET                                                                            
+R2           3k                   R-EU_0207/10          0207/10       RESISTOR, European symbol                                                                      
+R3           22.6k                R-EU_0207/10          0207/10       RESISTOR, European symbol                                                                      
+R4           10k                  R-EU_0207/10          0207/10       RESISTOR, European symbol                                                                      
+R5           100                  R-EU_0207/10          0207/10       RESISTOR, European symbol                                                                      
+R6           3k                   R-EU_0207/10          0207/10       RESISTOR, European symbol                                                                      
+R10          10k                  R-EU_0207/10          0207/10       RESISTOR, European symbol                                                                      
+R11          10k                  R-EU_0207/10          0207/10       RESISTOR, European symbol                                                                      
+R12          10k                  R-EU_0207/10          0207/10       RESISTOR, European symbol                                                                      
+RECTI+       WIREPAD4,16O1,6      WIREPAD4,16O1,6       4,16O1,6      Wire PAD connect wire on PCB                                                                   
+SH1          0                    J30MM                 30            Bridge                                                                                         
+SH2          0                    J30MM                 30            Bridge                                                                                         
+SH3          0                    J30MM                 30            Bridge                                                                                         
+T1           2N2907               MPS2907A-PNP-TO92-CBE TO92-CBE      PNP Transistror                                                                                
