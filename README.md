@@ -1,17 +1,18 @@
 # SDDD
+
 Simple Direct Drive Desulfaltor for Lead Acid Battery
 
-Schematic, PCB and Gerber files to build a direct drive desulfaltor circuit.
-This circuit pulses from 1kHz to 2kHz high current from 30 to 100A into batteries to break lead sulfate cristals.
+Schematic, PCB and Gerber files to build a direct drive desulfaltor circuit. This circuit pulses a high current from 30 to 100A at 1kHz to 2kHz into the battery block to break lead sulfate cristals.
 
 # SDDD Pulse Board
 
-The main board is Pulse generator board, it drives Mosfets:
+The main board is the pulse generator board, it drives Mosfets:
 
 ![Alt text](SDDD-PulseBoard-1.0-SHM-Eagle.png)
 ![Alt text](SDDD-PulseBoard-1.0-PCB-3D-Top.png)
 
-Frequency and pulse timming can be calculated as descrybed by Tucsonshooter:
+Frequency and pulses timming can be calculated as described by Tucsonshooter:
+
 >Pulse width = 1.1 * R6 * C8         (capacitance in farads,  .01 mF = .00000001 farads). 
 >Example: 1.1 * 3000*.00000001 = .000033 seconds or 33 microseconds.
 >
