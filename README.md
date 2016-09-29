@@ -33,6 +33,7 @@ Forum Direct Drive Desulfator Design:
 
 http://leadacidbatterydesulfation.yuku.com/topic/1162/Direct%E2%88%92Drive%E2%88%92Desulfator%E2%88%92Design
 http://leadacidbatterydesulfation.yuku.com/topic/1246/Simple-Direct-Drive-Desulfator-PCB-thread
+http://www.courtiestown.co.uk/fileuploader/download/download/?d=0&file=custom%2Fupload%2FFile-1368475803.pdf
 
 Evolutions:
 
