@@ -28,9 +28,12 @@ Frequency and pulse timming can be calculated as descrybed by Tucsonshooter:
 
 #References
 
-Forum Direct Drive Desulfator Design: http://leadacidbatterydesulfation.yuku.com/topic/1162/Direct%E2%88%92Drive%E2%88%92Desulfator%E2%88%92Design
+Forum Direct Drive Desulfator Design:
+
+http://leadacidbatterydesulfation.yuku.com/topic/1162/Direct%E2%88%92Drive%E2%88%92Desulfator%E2%88%92Design
 http://leadacidbatterydesulfation.yuku.com/topic/1246/Simple-Direct-Drive-Desulfator-PCB-thread
 
 Evolutions:
+
 http://www.brettcave.net/howto/circuits/Battery_LeadAcidDesulfator-DirectDrive-Type2.pdf
 http://www.brettcave.net/howto/circuits/Battery_LeadAcidDesulfator-DirectDrive-Type3.pdf
