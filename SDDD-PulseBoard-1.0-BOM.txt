@@ -1,4 +1,4 @@
-Partlist exported from D:/ylefebvre/Bureau/SDDD/SDDD-Eagle/SDDD-PulseBoard-1.0.sch at 29/09/2016 17:54
+Partlist exported from D:/ylefebvre/Bureau/SDDD/SDDD-Eagle/SDDD-PulseBoard-1.0.sch at 29/09/2016 18:44
 
 Part         Value                Device                Package       Description                          MF                          MPN       OC_FARNELL OC_NEWARK
 BAT-         WIREPADM5-SOLDER-NUT WIREPADM5-SOLDER-NUT  M5-SOLDER-NUT Wire PAD connect wire on PCB                                                                   
@@ -7,10 +7,10 @@ C2           0.1 µf Cer 25V       C-EU050-025X075       C050-025X075  CAPACITOR,
 C3           0.1 µf Cer 25V       C-EU050-025X075       C050-025X075  CAPACITOR, European symbol                                                                     
 C4           0.1 µf Cer 25V       C-EU050-025X075       C050-025X075  CAPACITOR, European symbol                                                                     
 C5           0.1 µf Cer 25V       C-EU050-025X075       C050-025X075  CAPACITOR, European symbol                                                                     
-C6           0.1µf                C-EU050-025X075       C050-025X075  CAPACITOR, European symbol                                                                     
-C7           0.1µf                C-EU050-025X075       C050-025X075  CAPACITOR, European symbol                                                                     
-C8           0.1µf                C-EU050-025X075       C050-025X075  CAPACITOR, European symbol                                                                     
-C9           0.1µf                C-EU050-025X075       C050-025X075  CAPACITOR, European symbol                                                                     
+C6           0.01µf               C-EU050-025X075       C050-025X075  CAPACITOR, European symbol                                                                     
+C7           0.01µf               C-EU050-025X075       C050-025X075  CAPACITOR, European symbol                                                                     
+C8           0.01µf               C-EU050-025X075       C050-025X075  CAPACITOR, European symbol                                                                     
+C9           0.01µf               C-EU050-025X075       C050-025X075  CAPACITOR, European symbol                                                                     
 C10          0.1 µf Cer 25v       C-EU050-025X075       C050-025X075  CAPACITOR, European symbol                                                                     
 CAP-/RECTIF- WIREPADM5-SOLDER-NUT WIREPADM5-SOLDER-NUT  M5-SOLDER-NUT Wire PAD connect wire on PCB                                                                   
 D1           1N4004               1N4004                DO41-10       DIODE                                                                                          
