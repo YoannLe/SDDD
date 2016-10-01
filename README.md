@@ -1,8 +1,11 @@
 # SDDD
 
-Simple Direct Drive Desulfaltor for Lead Acid Battery
+This is a simple direct drive desulfaltor for lead acid battery 12V blocs
 
-Schematic, PCB and Gerber files to build a direct drive desulfaltor circuit. This circuit pulses a high current from 30 to 100A at 1kHz to 2kHz into the battery block to break lead sulfate cristals.
+You can find schematic, PCB and Gerber files to build a direct drive desulfaltor circuit. This circuit pulses a high current from 30 to 100A at about 2kHz into the battery block to break lead sulfate cristals.
+
+The pulse board drives MOSFET with impulsions from 555 and discharges the capacitor bank into the battery bloc. The capacitor bank is load at 30V DC through a 10W resistor to limit charge current, different values of resistors can be selected to adapt the power of desulfator to the sulfated battery.
+Capacitor bank is made with very low ESR electrolytic caps in parallel, the capacity is about 30 mf, in my case:  30 x 1000µf 63V ESR=43mΩ PANASONIC EEUFC1J102U
 
 # SDDD Pulse Board
 
@@ -26,6 +29,14 @@ Frequency and pulses timming can be calculated as described by Tucsonshooter:
 >
 >Thermistors 
 >  Remember - a 3K NTC thermistor will read 3K at room temperature (25 deg. C.). It will read about 1.5K at 45 deg.C.
+
+A 3k NTC could be used for R2 to reduce frequency from 2kHz at 24° to 250Hz at 45°, this reduce the average power in the MOSFET and protects it from overheat on good batteries with low internal resistances. This slows frequency when the sulfated battery recovers its capacity and low internal resistance.
+
+This board can be cut in fonction blocs when opening jumpers, this is usefull for testing and try others configurations. An optocoupler connected to Vcc and PAD1 can be use to stop pulses from an MCU or arduino. Stop pulsing can be usefull to control battery voltage or in case of battery overheating. 
+
+# Capacitor bank and power supply
+
+
 
 #References
 
