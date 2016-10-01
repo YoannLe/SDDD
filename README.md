@@ -36,6 +36,13 @@ This board can be cut in fonction blocs when opening jumpers, this is usefull fo
 
 # Capacitor bank and power supply
 
+# Assembly
+
+# Tests
+
+# Results on 12V 90Ah AGM Battery
+
+First if the battery is old and have been over charged, open the sealed battery to check electrolyte level and refill with demineralized water. The level must be just above the glass mast.
 
 
 #References
