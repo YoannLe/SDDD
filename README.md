@@ -12,7 +12,7 @@ Capacitor bank is made with very low ESR electrolytic caps in parallel, the capa
 The main board is the pulse generator board, it drives Mosfets:
 
 ![Alt text](SDDD-PulseBoard-1.0-SHM-Eagle.png)
-![Alt text](SDDD-PulseBoard-1.0-PCB-3D-Top.png)
+![Alt text](SDDD-PulseBoard-1.0-PCB-3D-Top.png) ![Alt text](SDDD-PulseBoard-1.0-PCB-Photo.jpg)
 
 Frequency and pulses timming can be calculated as described by Tucsonshooter:
 
